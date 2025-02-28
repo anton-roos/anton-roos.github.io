@@ -1,9 +1,3 @@
-/*
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
- * Copyright (c) 2016 Julian Garnier
- */
-
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
@@ -24,9 +18,9 @@ window.onload = function() {
   var messages = [
     'Howzit 👋',
     'I\'m Anton',
-    'I develop apps \& websites.',
-    'Need something developed?<br> 📧 -> <a href="mailto:anton@in-detail.com">anton@in-detail.com</a>',
-    '<a target="_blank" href="https://in-detail.com">in-detail.com</a><br><a target="_blank" href="https://github.com/anton-roos">github.com/anton-roos</a><br><a target="_blank" href="https://crimespotter.app">crimespotter.app</a>',
+    'I am an AI Technical Lead at Hollard Insure.',
+    '<a target="_blank" href="https://github.com/anton-roos">GitHub</a><br>',
+    '<a target="_blank" href="https://anton-roos.github.io/numbers/">Numbers Demo</a>',
     getCurrentTime(),
     '👀 Anton'
   ]
